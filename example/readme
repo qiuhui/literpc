@@ -1,0 +1,3 @@
+编译命令
+gcc server.c ../src/*.c -I../include -lpthread -lrt -o rpc_server
+gcc client.c ../src/*.c -I../include -lpthread -lrt -o rpc_client
