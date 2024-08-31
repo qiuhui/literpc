@@ -1,6 +1,6 @@
 # binary_comm
 
-
+A light weight rpc framework for embedded device
 
 ## Getting started
 
